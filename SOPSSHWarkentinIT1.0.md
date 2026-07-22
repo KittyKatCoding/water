@@ -1,6 +1,6 @@
 # Standard Operating Procedure for Setting Up SSH Key Authentication on a Linux Server
 
-# Warkentin IT
+# Warkentin IT https://github.warkentin.uk
 
 Date: July 22, 2026
 
