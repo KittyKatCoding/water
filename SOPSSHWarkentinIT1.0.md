@@ -15,7 +15,19 @@ The purpose of this Standard Operating Procedure Document is to outline the prop
 
 This document is for network technicians setting up SSH access with SSH keys.
 
+### Accountability Matrix
 
+| Task | Responsible Party | Notes |
+| :--- | :--- | :--- |
+| **Server SSH Setup** | Administrator | The server SSH setup is to be done by the administrator. |
+| **SSH Connection Testing** | Client | The client should use their work computer to test if it works. |
+
+###Reversion Information
+
+| Version | Author | Notes |
+| :--- | :--- | :--- |
+| **1.0** |⠀Evan Warkentin | ⠀ |
+| ⠀|⠀| ⠀ |
 
 ### Procedure Steps:
 
