@@ -22,7 +22,7 @@ This document is for network technicians setting up SSH access with SSH keys.
 | **Server SSH Setup** | Administrator | The server SSH setup is to be done by the administrator. |
 | **SSH Connection Testing From Client Computer** | Client | The client should use their work computer to test if it works. |
 
-### Reversion History
+### Revision History
 
 | Version | Date | Changes Made By | Summary of Changes
 | :--- | :--- | :--- | :--- |
