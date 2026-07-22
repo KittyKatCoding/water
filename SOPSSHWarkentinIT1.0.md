@@ -20,14 +20,23 @@ This document is for network technicians setting up SSH access with SSH keys.
 | Task | Responsible Party | Notes |
 | :--- | :--- | :--- |
 | **Server SSH Setup** | Administrator | The server SSH setup is to be done by the administrator. |
-| **SSH Connection Testing** | Client | The client should use their work computer to test if it works. |
+| **SSH Connection Testing From Client Computer** | Client | The client should use their work computer to test if it works. |
 
-###Reversion Information
+### Reversion History
 
-| Version | Author | Notes |
-| :--- | :--- | :--- |
-| **1.0** |⠀Evan Warkentin | ⠀ |
-| ⠀|⠀| ⠀ |
+| Version | Date | Changes Made By | Summary of Changes
+| :--- | :--- | :--- | :--- |
+| **1.0** |⠀2026-07-22 | Evan Warkentin| Initial Release of Document|
+| ⠀|⠀| ⠀ | |
+
+
+### Approval Table 
+
+| Version | Date | Name |Designation|
+| :--- | :--- | :--- | :--- |
+| **1.0** | 2026-07-22 | Evan Warkentin |Author|
+| **⠀** | ⠀ | ⠀ | |
+
 
 ### Procedure Steps:
 
