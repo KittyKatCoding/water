@@ -12,7 +12,7 @@ The purpose of this Standard Operating Procedure Document is to outline the prop
 
 ### Scope
 
-This document is for network technicians setting up SSH access with SSH keys
+This document is for network technicians setting up SSH access with SSH keys.
 
 
 
@@ -74,13 +74,13 @@ To verify that SSH key authentication works try connecting by SSH from the clien
 
 
 
-###### FOr firewall to work, make shure you allow ssh in the firewall
+For firewall to work, make shure you allow SSH in the firewall.
 
 ###### \[YourServer]$ sudo firewall-cmd --permanent --add-service=ssh
 
 
 
-Then you should reload the firewall
+Then you need to reload the firewall.
 
 ###### \[YourServer]$ sudo firewall-cmd --reload
 
